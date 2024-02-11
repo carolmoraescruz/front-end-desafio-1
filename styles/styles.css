@@ -2,9 +2,11 @@
 @import url('header.css');
 @import url('about.css');
 @import url('numbers.css');
+@import url('openings.css');
 
 :root {
     --background-color: #FFFFFF;
+    --background-red-highlight: rgba(142, 36, 36, 0.05);
     --logo-grey-font: #3A404E;
     --dark-grey-title: #101828;
     --light-grey-text: #667085;

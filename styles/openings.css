@@ -1,0 +1,28 @@
+.openings {
+    text-align: center;
+}
+
+.openings__subtitle {
+    background: var(--background-red-highlight);
+    margin: 0 42em;
+    padding: 0.3em 1em;
+    border-radius: 16px;
+    color: var(--highlight-red);
+    font-size: 14px;
+}
+
+.openings__title {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--dark-grey-title);
+}
+
+.openings__description {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--light-grey-text);
+}
+
+.openings__image {
+    padding: 2em 4em;
+}
