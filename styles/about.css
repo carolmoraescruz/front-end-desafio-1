@@ -1,0 +1,22 @@
+.banner__about {
+    padding: 6em 16em;
+    text-align: center;
+}
+
+.about__subtitle {
+    color: var(--highlight-red);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.about__title {
+    color: var(--dark-grey-title);
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.about__text {
+    color: var(--light-grey-text);
+    font-size: 20px;
+    font-weight: 400;
+}
