@@ -1,0 +1,43 @@
+.positions {
+    margin: 0 14em;
+}
+
+.open__positions {
+    margin-bottom: 4em;
+}
+
+.area__positions {
+    font-size: 20px;
+    color: var(--dark-grey-title);
+    margin-left: 2em;
+    padding-bottom: 1.5em;
+}
+
+.positions__list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+.positions__item {
+    border: 1px solid var(--border-grey);
+    border-radius: 16px;
+    padding: 1.5em 0 1em 1.5em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.positions__link {
+    text-decoration: none;
+    font-size: 18px;
+    color: var(--dark-grey-title);
+}
+
+.position__details {
+    display: flex;
+    gap: 24px;
+    font-size: 16px;
+    color: var(--light-grey-text);
+}
