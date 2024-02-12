@@ -4,6 +4,7 @@
 @import url('numbers.css');
 @import url('openings.css');
 @import url('positions.css');
+@import url('opinions.css');
 
 :root {
     --background-color: #FFFFFF;

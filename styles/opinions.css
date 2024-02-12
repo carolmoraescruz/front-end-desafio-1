@@ -1,0 +1,28 @@
+.opinions {
+    text-align: center;
+    background-color: var(--background-red-highlight);
+    padding: 2em;
+}
+
+.opinions__subtitle {
+    color: var(--highlight-red);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.opinions__description {
+    color: var(--dark-grey-title);
+    font-size: 36px;
+    padding: 0 2em;
+}
+
+.employee-name {
+    color: var(--dark-grey-title);
+    font-size: 16px;
+}
+
+.employee-position {
+    color: var(--light-grey-text);
+    font-size: 14px;
+    font-weight: 400;
+}
