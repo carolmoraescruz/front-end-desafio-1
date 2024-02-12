@@ -5,15 +5,19 @@
 @import url('openings.css');
 @import url('positions.css');
 @import url('opinions.css');
+@import url('footer.css');
 
 :root {
     --background-color: #FFFFFF;
     --background-red-highlight: rgba(142, 36, 36, 0.05);
+    --background-footer: #F9FAFB;
     --logo-grey-font: #3A404E;
     --dark-grey-title: #101828;
     --light-grey-text: #667085;
+    --light-grey-footer: #98A2B3;
     --highlight-red: #8E2424;
     --border-grey: #EAECF0;
+    --border-input: #D0D5DD;
     --main-font: 'Inter', sans-serif;
 }
 
@@ -21,5 +25,4 @@ body {
     background-color: var(--background-color);
     font-family: var(--main-font);
     font-weight: 500;
-    padding: 0 6em;
 }

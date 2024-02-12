@@ -1,0 +1,38 @@
+.footer {
+    background-color: var(--background-footer);
+    text-align: center;
+    margin-top: 6em;
+    padding: 6em;
+}
+
+.footer__title {
+    color: var(--dark-grey-title);
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.footer__text {
+    color: var(--light-grey-text);
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 2em;
+}
+
+.footer__email-input {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25em;
+}
+
+.footer__input {
+    width: 360px;
+    border-radius: 8px;
+    border-color: var(--border-input);
+}
+
+.footer__info {
+    color: var(--light-grey-footer);
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 2em;
+}
