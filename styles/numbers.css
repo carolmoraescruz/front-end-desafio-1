@@ -1,3 +1,7 @@
+.numbers {
+    margin: 0 6em;
+}
+
 .numbers__list {
     display: flex;
     justify-content: center;
